@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey!
+
+⚡ I'm currently working on Textus Anticheat
+📫 Reach me on discord @ anthonyj#5724
+
 
 <!--
 **antja03/antja03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
