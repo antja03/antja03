@@ -1,7 +1,7 @@
 ### Hey!
 
-⚡ I'm currently working on Textus Anticheat
-📫 Reach me on discord @ anthonyj#5724
+⚡ I'm currently working on Textus Anticheat <br/>
+📫 Reach me on discord @ anthonyj#5724 <br/>
 
 
 <!--
