@@ -1,7 +1,7 @@
-# Sup, dawg.
+## Sup, dawg.
 
-## Current project: 
+### Current project: 
 Textus Anti-Cheat <br/>
 
-## Discord: 
+### Discord: 
 anthonyj#5724
