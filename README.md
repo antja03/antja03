@@ -1,4 +1,8 @@
 ## Sup, dawg.
 
-**Current project:** Textus Anti-Cheat <br/>
+**Current project:** Ranked Bedwars and Ranked Client (<br/>
+  - https://rankedbedwars.org/
+  - .gg/rbw
+  - .gg/rankedbw
+  
 **Discord:** anthonyj#5724 <br/>
